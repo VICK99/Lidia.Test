@@ -1,0 +1,115 @@
+
+body{
+	background-image:url(../img/coral.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	font-family: Tahona;
+	color:black; 
+}
+
+.leer{
+	width: 600px;
+	border-radius: 5px;
+	background-color:black;
+	margin: 50px;
+
+}
+
+
+	
+p{
+  color:yellow;
+  font-weight: bold;
+}
+ 
+.container{
+	
+	padding: 1px;
+	overflow: hidden;
+
+} 
+
+.item{
+	margin: 20px;
+	padding: 0px;
+	float: left;
+}
+
+.img-responsive{
+	border-radius: 20px;
+	margin: px;
+	padding:px;
+}
+
+#tex{
+	
+	width: 400px;
+	height: auto;
+	margin: 0 auto;
+	border-radius: 25px;
+	background-color: black;
+	font-size: 50px;
+	text-align: center;
+	
+
+}
+
+.pre{
+
+	width: 500px;
+	height: auto;
+	margin: 0px;
+	text-align: center;
+	border-radius:20px;
+	background-color: black;
+
+}
+
+.res{
+
+	width: 400px;
+	text-align: ;
+	border-radius: 20px;
+	background-color: blue;
+	color: red;
+}
+.boton{
+
+	text-align: center;
+}
+
+.autor{
+
+	width: 400px;
+	background-color: blue;
+	text-align:;
+	border-radius: 20px;
+	color: red;
+
+}
+
+#tex1{
+	width: 500px;
+	height: auto;
+	margin: 0 auto;
+	border-radius: 25px;
+	background-color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
